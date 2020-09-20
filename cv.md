@@ -6,7 +6,7 @@
   I study at MSU. I like all subjects, but most of all i like english, informatics, 
   mathematics, physics.
  4. I know some programming languages at middle level: Python, C++, C, Pascal, Html, Css, JS. 
- 5. <!--function squareDigits(num){
+ 5. <function squareDigits(num){
   var s="";
   var t=num.toString();
   for (var i=0;i<t.length;i++)
@@ -16,7 +16,7 @@
    s=s+c.toString();
   }
   return Number(s);
-  }-->
+  }
      This is code for this task:
      Here i must to square every digit of a number.
      For example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1.
